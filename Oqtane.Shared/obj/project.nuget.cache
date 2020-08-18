@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PfSILjghsBwGzIusJ6BSgYcwk8u6b7gmJvE6AJJeBmuwsXetJqmrZbcs9kN9sBqQWUxDM1syT+qQyXm4sPjmAg==",
+  "dgSpecHash": "uH7YsvWlqClSpRhTyz29KP8JpOjglGf4Dtj+zySCPlAl2qlry1fa0B85TXndV/xPGNDXD6nrV0YGTSDs0Odi4g==",
   "success": true,
-  "projectFilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj",
+  "projectFilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/Oqtane.Shared.csproj",
   "expectedPackageFiles": [
     "/Users/cam/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "/Users/cam/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.4/microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",

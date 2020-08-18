@@ -6966,11 +6966,11 @@
   "project": {
     "version": "1.0.3",
     "restore": {
-      "projectUniqueName": "/Users/cam/Desktop/oqtane.framework/Oqtane.Test/Oqtane.Test.csproj",
+      "projectUniqueName": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Test/Oqtane.Test.csproj",
       "projectName": "Oqtane.Test",
-      "projectPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Test/Oqtane.Test.csproj",
+      "projectPath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Test/Oqtane.Test.csproj",
       "packagesPath": "/Users/cam/.nuget/packages/",
-      "outputPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Test/obj/",
+      "outputPath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cam/.config/NuGet/NuGet.Config"
@@ -6984,8 +6984,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj": {
-              "projectPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj"
+            "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/Oqtane.Shared.csproj": {
+              "projectPath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/Oqtane.Shared.csproj"
             }
           }
         }

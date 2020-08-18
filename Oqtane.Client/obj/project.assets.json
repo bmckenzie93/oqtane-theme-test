@@ -1519,11 +1519,11 @@
   "project": {
     "version": "1.0.3",
     "restore": {
-      "projectUniqueName": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Oqtane.Client.csproj",
+      "projectUniqueName": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Oqtane.Client.csproj",
       "projectName": "Oqtane.Client",
-      "projectPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Oqtane.Client.csproj",
+      "projectPath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Oqtane.Client.csproj",
       "packagesPath": "/Users/cam/.nuget/packages/",
-      "outputPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/obj/",
+      "outputPath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cam/.config/NuGet/NuGet.Config"
@@ -1537,8 +1537,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj": {
-              "projectPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj"
+            "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/Oqtane.Shared.csproj": {
+              "projectPath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/Oqtane.Shared.csproj"
             }
           }
         }

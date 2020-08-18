@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "db1Uh9svsHSmbWo0U4+YlsOrlaF7+F4PUZYOq8HUsh2zUCgDpptOLKxk77MjaTy1XhAxc+dLpuQuZylqa/ZgLw==",
+  "dgSpecHash": "ZvIbV+zkw9SwDd04GdLrGSM6ptKRcV38UmXSHlU2I8CM9Egi026yaawvfIy/FomID8f/EjSTTf61YR9Uty32Sw==",
   "success": true,
-  "projectFilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Upgrade/Oqtane.Upgrade.csproj",
+  "projectFilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Upgrade/Oqtane.Upgrade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

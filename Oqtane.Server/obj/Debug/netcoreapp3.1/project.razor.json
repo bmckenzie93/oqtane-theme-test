@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Server/Oqtane.Server.csproj",
+  "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Server/Oqtane.Server.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -6716,37 +6716,6 @@
       },
       {
         "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.Controls.Logo",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Logo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.Controls.Logo"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.Controls.Logo",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Oqtane.Themes.Controls.Logo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.Controls.Logo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
         "Name": "Oqtane.Themes.Controls.Menu",
         "AssemblyName": "Oqtane.Client",
         "CaseSensitive": true,
@@ -7103,6 +7072,37 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Oqtane.Themes.OqtaneTheme.SinglePane",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.AdminContainer",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AdminContainer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.AdminContainer"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.AdminContainer",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Oqtane.Themes.AdminContainer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.AdminContainer",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -18852,18 +18852,18 @@
   "RootNamespace": "Oqtane",
   "Documents": [
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Server/Pages/_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Server/Pages/Login.cshtml",
+      "TargetPath": "Pages\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Server/Pages/Logout.cshtml",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Server/Pages/Logout.cshtml",
       "TargetPath": "Pages\\Logout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Server/Pages/Login.cshtml",
-      "TargetPath": "Pages\\Login.cshtml",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Server/Pages/_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
     }
   ],

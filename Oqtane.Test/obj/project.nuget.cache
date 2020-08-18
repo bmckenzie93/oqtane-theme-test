@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bD0s2JtxCbN0zbUnlIPZQFC7YG1tWbc1SB32CBZNmtz3XsG9+BWUhSJl6I9rCpR1IZlJCFCD2nXPr6VPd6+uZw==",
+  "dgSpecHash": "l8vCrDvDD+x3y6drJgk3ne06ZYJyg2Evtn3d36s9oXBdTid4cogej/bgwpM0XpETzkGzWy5Rnz0g1IX909pB0g==",
   "success": true,
-  "projectFilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Test/Oqtane.Test.csproj",
+  "projectFilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Test/Oqtane.Test.csproj",
   "expectedPackageFiles": [
     "/Users/cam/.nuget/packages/anglesharp/0.13.0/anglesharp.0.13.0.nupkg.sha512",
     "/Users/cam/.nuget/packages/anglesharp.css/0.13.0/anglesharp.css.0.13.0.nupkg.sha512",

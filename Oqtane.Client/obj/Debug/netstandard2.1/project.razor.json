@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Oqtane.Client.csproj",
+  "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Oqtane.Client.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "3.0",
@@ -3942,37 +3942,6 @@
       },
       {
         "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.Controls.Logo",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Logo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.Controls.Logo"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.Controls.Logo",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Oqtane.Themes.Controls.Logo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.Controls.Logo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
         "Name": "Oqtane.Themes.Controls.Menu",
         "AssemblyName": "Oqtane.Client",
         "CaseSensitive": true,
@@ -4329,6 +4298,37 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Oqtane.Themes.OqtaneTheme.SinglePane",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.AdminContainer",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AdminContainer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.AdminContainer"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.AdminContainer",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Oqtane.Themes.AdminContainer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.AdminContainer",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16701,468 +16701,468 @@
   "RootNamespace": "Oqtane",
   "Documents": [
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/ModuleDefinitions/Add.razor",
-      "TargetPath": "Modules\\Admin\\ModuleDefinitions\\Add.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/ModuleCreator/Index.razor",
+      "TargetPath": "Modules\\Admin\\ModuleCreator\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/ActionDialog.razor",
-      "TargetPath": "Modules\\Controls\\ActionDialog.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/UI/Installer.razor",
-      "TargetPath": "UI\\Installer.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/UI/ModuleInstance.razor",
-      "TargetPath": "UI\\ModuleInstance.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/ControlPanel.razor",
-      "TargetPath": "Themes\\Controls\\ControlPanel.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/MenuHorizontal.Razor",
-      "TargetPath": "Themes\\Controls\\MenuHorizontal.Razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Sites/Add.razor",
-      "TargetPath": "Modules\\Admin\\Sites\\Add.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Users/Index.razor",
-      "TargetPath": "Modules\\Admin\\Users\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Register/Index.razor",
-      "TargetPath": "Modules\\Admin\\Register\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/OqtaneTheme/SinglePane.razor",
-      "TargetPath": "Themes\\OqtaneTheme\\SinglePane.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Themes/View.razor",
-      "TargetPath": "Modules\\Admin\\Themes\\View.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Users/Roles.razor",
-      "TargetPath": "Modules\\Admin\\Users\\Roles.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Files/Add.razor",
-      "TargetPath": "Modules\\Admin\\Files\\Add.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Modules/Import.razor",
-      "TargetPath": "Modules\\Admin\\Modules\\Import.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Jobs/Edit.razor",
-      "TargetPath": "Modules\\Admin\\Jobs\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/UI/PaneLayout.razor",
-      "TargetPath": "UI\\PaneLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/Label.razor",
-      "TargetPath": "Modules\\Controls\\Label.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Modules/Settings.razor",
-      "TargetPath": "Modules\\Admin\\Modules\\Settings.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/OqtaneTheme/Default.razor",
-      "TargetPath": "Themes\\OqtaneTheme\\Default.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Logs/Index.razor",
-      "TargetPath": "Modules\\Admin\\Logs\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Users/Add.razor",
-      "TargetPath": "Modules\\Admin\\Users\\Add.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/OqtaneTheme/MultiPane.razor",
-      "TargetPath": "Themes\\OqtaneTheme\\MultiPane.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/Login.razor",
-      "TargetPath": "Themes\\Controls\\Login.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/ModuleMessage.razor",
-      "TargetPath": "Modules\\Controls\\ModuleMessage.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/ModuleDefinitions/Index.razor",
-      "TargetPath": "Modules\\Admin\\ModuleDefinitions\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Roles/Add.razor",
-      "TargetPath": "Modules\\Admin\\Roles\\Add.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/Pager.razor",
-      "TargetPath": "Modules\\Controls\\Pager.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Login/Index.razor",
-      "TargetPath": "Modules\\Admin\\Login\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Themes/Index.razor",
-      "TargetPath": "Modules\\Admin\\Themes\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/ModuleDefinitions/Edit.razor",
-      "TargetPath": "Modules\\Admin\\ModuleDefinitions\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/Logo.razor",
-      "TargetPath": "Themes\\Controls\\Logo.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Upgrade/Index.razor",
-      "TargetPath": "Modules\\Admin\\Upgrade\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Files/Edit.razor",
-      "TargetPath": "Modules\\Admin\\Files\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Profiles/Edit.razor",
-      "TargetPath": "Modules\\Admin\\Profiles\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/Section.razor",
-      "TargetPath": "Modules\\Controls\\Section.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/MenuVertical.razor",
-      "TargetPath": "Themes\\Controls\\MenuVertical.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Sites/Index.razor",
-      "TargetPath": "Modules\\Admin\\Sites\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Error/Index.razor",
-      "TargetPath": "Modules\\Admin\\Error\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Profiles/Index.razor",
-      "TargetPath": "Modules\\Admin\\Profiles\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Themes/Add.razor",
-      "TargetPath": "Modules\\Admin\\Themes\\Add.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Roles/Index.razor",
-      "TargetPath": "Modules\\Admin\\Roles\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/UserProfile/Add.razor",
-      "TargetPath": "Modules\\Admin\\UserProfile\\Add.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/Breadcrumbs.razor",
-      "TargetPath": "Themes\\Controls\\Breadcrumbs.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Sites/Edit.razor",
-      "TargetPath": "Modules\\Admin\\Sites\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Tenants/Edit.razor",
-      "TargetPath": "Modules\\Admin\\Tenants\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Tenants/Index.razor",
-      "TargetPath": "Modules\\Admin\\Tenants\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/OqtaneTheme/NoTitle.razor",
-      "TargetPath": "Themes\\OqtaneTheme\\NoTitle.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/UI/ContainerBuilder.razor",
-      "TargetPath": "UI\\ContainerBuilder.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Modules/Export.razor",
-      "TargetPath": "Modules\\Admin\\Modules\\Export.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Pages/Add.razor",
-      "TargetPath": "Modules\\Admin\\Pages\\Add.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Pages/Edit.razor",
-      "TargetPath": "Modules\\Admin\\Pages\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Jobs/Index.razor",
-      "TargetPath": "Modules\\Admin\\Jobs\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/UI/SiteRouter.razor",
-      "TargetPath": "UI\\SiteRouter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/UI/Pane.razor",
-      "TargetPath": "UI\\Pane.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/RecycleBin/Index.razor",
-      "TargetPath": "Modules\\Admin\\RecycleBin\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/UI/ThemeBuilder.razor",
-      "TargetPath": "UI\\ThemeBuilder.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Users/Edit.razor",
-      "TargetPath": "Modules\\Admin\\Users\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Jobs/Add.razor",
-      "TargetPath": "Modules\\Admin\\Jobs\\Add.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/BlazorTheme/Default.razor",
-      "TargetPath": "Themes\\BlazorTheme\\Default.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Roles/Edit.razor",
-      "TargetPath": "Modules\\Admin\\Roles\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/UserProfile/View.razor",
-      "TargetPath": "Modules\\Admin\\UserProfile\\View.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/AdminContainer.razor",
-      "TargetPath": "Themes\\AdminContainer.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/UserProfile.razor",
-      "TargetPath": "Themes\\Controls\\UserProfile.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Site/Index.razor",
-      "TargetPath": "Modules\\Admin\\Site\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/OqtaneTheme/Container.razor",
-      "TargetPath": "Themes\\OqtaneTheme\\Container.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Pages/Index.razor",
-      "TargetPath": "Modules\\Admin\\Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/ModuleActions.razor",
-      "TargetPath": "Themes\\Controls\\ModuleActions.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/ActionLink.razor",
-      "TargetPath": "Modules\\Controls\\ActionLink.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Dashboard/Index.razor",
-      "TargetPath": "Modules\\Admin\\Dashboard\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/BlazorTheme/Container.razor",
-      "TargetPath": "Themes\\BlazorTheme\\Container.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Files/Index.razor",
-      "TargetPath": "Modules\\Admin\\Files\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/TabStrip.razor",
-      "TargetPath": "Modules\\Controls\\TabStrip.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/DefaultContainer.razor",
-      "TargetPath": "Themes\\DefaultContainer.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Roles/Users.razor",
-      "TargetPath": "Modules\\Admin\\Roles\\Users.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/TriStateCheckBox.razor",
-      "TargetPath": "Modules\\Controls\\TriStateCheckBox.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/HtmlText/Edit.razor",
-      "TargetPath": "Modules\\HtmlText\\Edit.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/ModuleTitle.razor",
-      "TargetPath": "Themes\\Controls\\ModuleTitle.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Reset/Index.razor",
-      "TargetPath": "Modules\\Admin\\Reset\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/SystemInfo/Index.razor",
-      "TargetPath": "Modules\\Admin\\SystemInfo\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/TabPanel.razor",
-      "TargetPath": "Modules\\Controls\\TabPanel.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/UserProfile/Index.razor",
-      "TargetPath": "Modules\\Admin\\UserProfile\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/PermissionGrid.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/PermissionGrid.razor",
       "TargetPath": "Modules\\Controls\\PermissionGrid.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Sql/Index.razor",
-      "TargetPath": "Modules\\Admin\\Sql\\Index.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Dashboard/Index.razor",
+      "TargetPath": "Modules\\Admin\\Dashboard\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Jobs/Log.razor",
-      "TargetPath": "Modules\\Admin\\Jobs\\Log.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Users/Roles.razor",
+      "TargetPath": "Modules\\Admin\\Users\\Roles.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Themes/Controls/Menu.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/BlazorTheme/Default.razor",
+      "TargetPath": "Themes\\BlazorTheme\\Default.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Themes/Index.razor",
+      "TargetPath": "Modules\\Admin\\Themes\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/Login.razor",
+      "TargetPath": "Themes\\Controls\\Login.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Pages/Index.razor",
+      "TargetPath": "Modules\\Admin\\Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/UserProfile/Index.razor",
+      "TargetPath": "Modules\\Admin\\UserProfile\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/ModuleActions.razor",
+      "TargetPath": "Themes\\Controls\\ModuleActions.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/UserProfile.razor",
+      "TargetPath": "Themes\\Controls\\UserProfile.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Themes/View.razor",
+      "TargetPath": "Modules\\Admin\\Themes\\View.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/UI/PaneLayout.razor",
+      "TargetPath": "UI\\PaneLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/UI/ContainerBuilder.razor",
+      "TargetPath": "UI\\ContainerBuilder.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/ControlPanel.razor",
+      "TargetPath": "Themes\\Controls\\ControlPanel.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/Menu.razor",
       "TargetPath": "Themes\\Controls\\Menu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/FileManager.razor",
-      "TargetPath": "Modules\\Controls\\FileManager.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Users/Edit.razor",
+      "TargetPath": "Modules\\Admin\\Users\\Edit.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/HtmlText/Index.razor",
-      "TargetPath": "Modules\\HtmlText\\Index.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Upgrade/Index.razor",
+      "TargetPath": "Modules\\Admin\\Upgrade\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/RichTextEditor.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/OqtaneTheme/Container.razor",
+      "TargetPath": "Themes\\OqtaneTheme\\Container.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/Logo.razor",
+      "TargetPath": "Themes\\Controls\\Logo.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/UI/Installer.razor",
+      "TargetPath": "UI\\Installer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Files/Index.razor",
+      "TargetPath": "Modules\\Admin\\Files\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/RichTextEditor.razor",
       "TargetPath": "Modules\\Controls\\RichTextEditor.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/Logs/Detail.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Logs/Index.razor",
+      "TargetPath": "Modules\\Admin\\Logs\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Modules/Settings.razor",
+      "TargetPath": "Modules\\Admin\\Modules\\Settings.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Logs/Detail.razor",
       "TargetPath": "Modules\\Admin\\Logs\\Detail.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Controls/AuditInfo.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/MenuHorizontal.Razor",
+      "TargetPath": "Themes\\Controls\\MenuHorizontal.Razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/BlazorTheme/Container.razor",
+      "TargetPath": "Themes\\BlazorTheme\\Container.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Sites/Add.razor",
+      "TargetPath": "Modules\\Admin\\Sites\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/FileManager.razor",
+      "TargetPath": "Modules\\Controls\\FileManager.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/AuditInfo.razor",
       "TargetPath": "Modules\\Controls\\AuditInfo.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Modules/Admin/ModuleCreator/Index.razor",
-      "TargetPath": "Modules\\Admin\\ModuleCreator\\Index.razor",
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Modules/Import.razor",
+      "TargetPath": "Modules\\Admin\\Modules\\Import.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Roles/Users.razor",
+      "TargetPath": "Modules\\Admin\\Roles\\Users.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/ModuleMessage.razor",
+      "TargetPath": "Modules\\Controls\\ModuleMessage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/ModuleDefinitions/Add.razor",
+      "TargetPath": "Modules\\Admin\\ModuleDefinitions\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Users/Index.razor",
+      "TargetPath": "Modules\\Admin\\Users\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Reset/Index.razor",
+      "TargetPath": "Modules\\Admin\\Reset\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Sites/Index.razor",
+      "TargetPath": "Modules\\Admin\\Sites\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/UI/SiteRouter.razor",
+      "TargetPath": "UI\\SiteRouter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/ModuleDefinitions/Index.razor",
+      "TargetPath": "Modules\\Admin\\ModuleDefinitions\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Roles/Index.razor",
+      "TargetPath": "Modules\\Admin\\Roles\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/UserProfile/View.razor",
+      "TargetPath": "Modules\\Admin\\UserProfile\\View.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/UI/ModuleInstance.razor",
+      "TargetPath": "UI\\ModuleInstance.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/ModuleDefinitions/Edit.razor",
+      "TargetPath": "Modules\\Admin\\ModuleDefinitions\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/OqtaneTheme/Default.razor",
+      "TargetPath": "Themes\\OqtaneTheme\\Default.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Pages/Add.razor",
+      "TargetPath": "Modules\\Admin\\Pages\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/UserProfile/Add.razor",
+      "TargetPath": "Modules\\Admin\\UserProfile\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/ActionLink.razor",
+      "TargetPath": "Modules\\Controls\\ActionLink.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Files/Add.razor",
+      "TargetPath": "Modules\\Admin\\Files\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/ActionDialog.razor",
+      "TargetPath": "Modules\\Controls\\ActionDialog.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/ModuleTitle.razor",
+      "TargetPath": "Themes\\Controls\\ModuleTitle.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Sql/Index.razor",
+      "TargetPath": "Modules\\Admin\\Sql\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/Section.razor",
+      "TargetPath": "Modules\\Controls\\Section.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Roles/Add.razor",
+      "TargetPath": "Modules\\Admin\\Roles\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Jobs/Log.razor",
+      "TargetPath": "Modules\\Admin\\Jobs\\Log.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/AdminContainer.razor",
+      "TargetPath": "Themes\\AdminContainer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/HtmlText/Index.razor",
+      "TargetPath": "Modules\\HtmlText\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Error/Index.razor",
+      "TargetPath": "Modules\\Admin\\Error\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/Label.razor",
+      "TargetPath": "Modules\\Controls\\Label.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/DefaultContainer.razor",
+      "TargetPath": "Themes\\DefaultContainer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/TabPanel.razor",
+      "TargetPath": "Modules\\Controls\\TabPanel.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Roles/Edit.razor",
+      "TargetPath": "Modules\\Admin\\Roles\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/OqtaneTheme/MultiPane.razor",
+      "TargetPath": "Themes\\OqtaneTheme\\MultiPane.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Jobs/Add.razor",
+      "TargetPath": "Modules\\Admin\\Jobs\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/MenuVertical.razor",
+      "TargetPath": "Themes\\Controls\\MenuVertical.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Themes/Add.razor",
+      "TargetPath": "Modules\\Admin\\Themes\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Modules/Export.razor",
+      "TargetPath": "Modules\\Admin\\Modules\\Export.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Tenants/Edit.razor",
+      "TargetPath": "Modules\\Admin\\Tenants\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/UI/ThemeBuilder.razor",
+      "TargetPath": "UI\\ThemeBuilder.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/Pager.razor",
+      "TargetPath": "Modules\\Controls\\Pager.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Users/Add.razor",
+      "TargetPath": "Modules\\Admin\\Users\\Add.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Site/Index.razor",
+      "TargetPath": "Modules\\Admin\\Site\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/HtmlText/Edit.razor",
+      "TargetPath": "Modules\\HtmlText\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Jobs/Edit.razor",
+      "TargetPath": "Modules\\Admin\\Jobs\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/OqtaneTheme/SinglePane.razor",
+      "TargetPath": "Themes\\OqtaneTheme\\SinglePane.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/SystemInfo/Index.razor",
+      "TargetPath": "Modules\\Admin\\SystemInfo\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/OqtaneTheme/NoTitle.razor",
+      "TargetPath": "Themes\\OqtaneTheme\\NoTitle.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Tenants/Index.razor",
+      "TargetPath": "Modules\\Admin\\Tenants\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/TriStateCheckBox.razor",
+      "TargetPath": "Modules\\Controls\\TriStateCheckBox.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Register/Index.razor",
+      "TargetPath": "Modules\\Admin\\Register\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Themes/Controls/Breadcrumbs.razor",
+      "TargetPath": "Themes\\Controls\\Breadcrumbs.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Profiles/Index.razor",
+      "TargetPath": "Modules\\Admin\\Profiles\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/UI/Pane.razor",
+      "TargetPath": "UI\\Pane.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Controls/TabStrip.razor",
+      "TargetPath": "Modules\\Controls\\TabStrip.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Profiles/Edit.razor",
+      "TargetPath": "Modules\\Admin\\Profiles\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Jobs/Index.razor",
+      "TargetPath": "Modules\\Admin\\Jobs\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Files/Edit.razor",
+      "TargetPath": "Modules\\Admin\\Files\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Login/Index.razor",
+      "TargetPath": "Modules\\Admin\\Login\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Pages/Edit.razor",
+      "TargetPath": "Modules\\Admin\\Pages\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/Sites/Edit.razor",
+      "TargetPath": "Modules\\Admin\\Sites\\Edit.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Modules/Admin/RecycleBin/Index.razor",
+      "TargetPath": "Modules\\Admin\\RecycleBin\\Index.razor",
       "FileKind": "component"
     }
   ],

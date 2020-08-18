@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Oqtane.Client.dll": "sha256-KvazhfkNoOWmZ9nqOvS0XLHBCkOPOFwmMAStl3WDMiM=",
+      "Oqtane.Client.dll": "sha256-sZL++87z+IiGrxZrT2Fdpx89eGljK9vXq0XUzgJGQfA=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-EMaZcXm5dyuOLalqRCroNj2uXZHt+SfWSic9GJZhE7g=",
       "Microsoft.Extensions.Options.dll": "sha256-GKaZ0pXdDDK2UC6Tw1\/gfhTeOXd3CwLpmzElLFXH2Yg=",
       "Microsoft.Extensions.Primitives.dll": "sha256-CROii6U\/WcOecMUC573SxJfwyoWbwOwlUT92yCPEh8Q=",
@@ -64,7 +64,7 @@
       "Oqtane.Shared.dll": "sha256-tKPf68NOdMiHtq+mzUeRoXBea3aYasDb0DdJiF8avMM="
     },
     "pdb": {
-      "Oqtane.Client.pdb": "sha256-YPyqeQaDCtEMqPpVeZKg9WaX2scNq63M0xTqrwJRv\/M=",
+      "Oqtane.Client.pdb": "sha256-ixK3eTq9WhSFK6KHIyU0FjCjlvyCZqmi\/Lt0cyyB+Hk=",
       "Oqtane.Shared.pdb": "sha256-pW7jQ8evrcLpjZ7NUa3JraWTJyv+bnytQIPVaKTwMqQ="
     },
     "runtime": {

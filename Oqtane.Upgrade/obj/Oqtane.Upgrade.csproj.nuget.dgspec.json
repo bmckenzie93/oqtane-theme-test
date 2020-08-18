@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cam/Desktop/oqtane.framework/Oqtane.Upgrade/Oqtane.Upgrade.csproj": {}
+    "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Upgrade/Oqtane.Upgrade.csproj": {}
   },
   "projects": {
-    "/Users/cam/Desktop/oqtane.framework/Oqtane.Upgrade/Oqtane.Upgrade.csproj": {
+    "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Upgrade/Oqtane.Upgrade.csproj": {
       "version": "1.0.3",
       "restore": {
-        "projectUniqueName": "/Users/cam/Desktop/oqtane.framework/Oqtane.Upgrade/Oqtane.Upgrade.csproj",
+        "projectUniqueName": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Upgrade/Oqtane.Upgrade.csproj",
         "projectName": "Oqtane.Upgrade",
-        "projectPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Upgrade/Oqtane.Upgrade.csproj",
+        "projectPath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Upgrade/Oqtane.Upgrade.csproj",
         "packagesPath": "/Users/cam/.nuget/packages/",
-        "outputPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Upgrade/obj/",
+        "outputPath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Upgrade/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cam/.config/NuGet/NuGet.Config"

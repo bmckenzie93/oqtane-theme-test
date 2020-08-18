@@ -7,3 +7,12 @@
 /Users/cam/Desktop/oqtane.framework/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.csproj.CoreCompileInputs.cache
 /Users/cam/Desktop/oqtane.framework/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.dll
 /Users/cam/Desktop/oqtane.framework/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.pdb
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/bin/Debug/netstandard2.1/Oqtane.Shared.deps.json
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/bin/Debug/netstandard2.1/Oqtane.Shared.dll
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/bin/Debug/netstandard2.1/Oqtane.Shared.pdb
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.csprojAssemblyReference.cache
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.AssemblyInfoInputs.cache
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.AssemblyInfo.cs
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.csproj.CoreCompileInputs.cache
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.dll
+/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Shared/obj/Debug/netstandard2.1/Oqtane.Shared.pdb

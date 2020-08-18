@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5B1uURaU7bBE2mqOmiUJdsidmqZznT6uQsC04cEZobmjG20K2iEN6YJRheJCEXhJTYzzyCMKMFZIFBfIlADJZg==",
+  "dgSpecHash": "IfD7wVTwY4jOc1u2SUR+PuJ8mMGV1x+U/c7Jcy4OJCJlZq6JG7v6g3VjGbJspLh7EJie+pb/9tO9ojnnn7UGNA==",
   "success": true,
-  "projectFilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Oqtane.Client.csproj",
+  "projectFilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Client/Oqtane.Client.csproj",
   "expectedPackageFiles": [
     "/Users/cam/.nuget/packages/microsoft.aspnetcore.authorization/3.1.4/microsoft.aspnetcore.authorization.3.1.4.nupkg.sha512",
     "/Users/cam/.nuget/packages/microsoft.aspnetcore.components/3.1.4/microsoft.aspnetcore.components.3.1.4.nupkg.sha512",

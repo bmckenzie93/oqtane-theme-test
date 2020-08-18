@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TrbtLGbkEJtg+Epa4EvZNmKMjr5XLZbofY1qtnLh1WM3BUJg5tnCluT/fUOlqvRtgCuXABSD9jYxsudZd2k9PA==",
+  "dgSpecHash": "lUQqHDVpQOKGS8kG2rmJHgFvwhYFsMBq79ZQdhBE1Mm9Tm3uzIOMpl38hJWxTLFFowE/hXvoGoHlLErnYd+lwg==",
   "success": true,
-  "projectFilePath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Server/Oqtane.Server.csproj",
+  "projectFilePath": "/Users/cam/Desktop/oqtane/oqtane-theme-test/Oqtane.Server/Oqtane.Server.csproj",
   "expectedPackageFiles": [
     "/Users/cam/.nuget/packages/dbup/4.3.0/dbup.4.3.0.nupkg.sha512",
     "/Users/cam/.nuget/packages/dbup-core/4.3.0/dbup-core.4.3.0.nupkg.sha512",
