@@ -1,2 +1,1 @@
-# oqtane-theme-test
-Learning to make oqtane themes
+Learning to create themes for oqtane

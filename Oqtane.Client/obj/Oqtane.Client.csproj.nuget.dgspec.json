@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Oqtane.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Oqtane.Client.csproj": {
+      "version": "1.0.3",
+      "restore": {
+        "projectUniqueName": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Oqtane.Client.csproj",
+        "projectName": "Oqtane.Client",
+        "projectPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/Oqtane.Client.csproj",
+        "packagesPath": "/Users/cam/.nuget/packages/",
+        "outputPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj": {
+                "projectPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj": {
+      "version": "1.0.3",
+      "restore": {
+        "projectUniqueName": "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj",
+        "projectName": "Oqtane.Shared",
+        "projectPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/Oqtane.Shared.csproj",
+        "packagesPath": "/Users/cam/.nuget/packages/",
+        "outputPath": "/Users/cam/Desktop/oqtane.framework/Oqtane.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
