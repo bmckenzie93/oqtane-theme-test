@@ -3911,88 +3911,6 @@
       },
       {
         "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.Controls.Login",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.Controls.Login"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.Controls.Login",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Oqtane.Themes.Controls.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.Controls.Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.Controls.Menu",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Menu"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Orientation",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Orientation"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.Controls.Menu"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.Controls.Menu",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Oqtane.Themes.Controls.Menu"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Orientation",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Orientation"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.Controls.Menu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
         "Name": "Oqtane.Themes.Controls.MenuHorizontal",
         "AssemblyName": "Oqtane.Client",
         "CaseSensitive": true,
@@ -4148,6 +4066,119 @@
       },
       {
         "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.Controls.Menu",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Menu"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Orientation",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Orientation"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.Controls.Menu"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.Controls.Menu",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Oqtane.Themes.Controls.Menu"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Orientation",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Orientation"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.Controls.Menu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.Controls.Logo",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Logo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.Controls.Logo"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.Controls.Logo",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Oqtane.Themes.Controls.Logo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.Controls.Logo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.Controls.Login",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.Controls.Login"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.Controls.Login",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Oqtane.Themes.Controls.Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.Controls.Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
         "Name": "Oqtane.Themes.OqtaneTheme.Container",
         "AssemblyName": "Oqtane.Client",
         "CaseSensitive": true,
@@ -4174,37 +4205,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Oqtane.Themes.OqtaneTheme.Container",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.OqtaneTheme.Default",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Default"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.OqtaneTheme.Default"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.OqtaneTheme.Default",
-        "AssemblyName": "Oqtane.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Oqtane.Themes.OqtaneTheme.Default"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.OqtaneTheme.Default",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4303,32 +4303,32 @@
       },
       {
         "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.AdminContainer",
+        "Name": "Oqtane.Themes.OqtaneTheme.Default",
         "AssemblyName": "Oqtane.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AdminContainer"
+            "TagName": "Default"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.AdminContainer"
+          "Common.TypeName": "Oqtane.Themes.OqtaneTheme.Default"
         }
       },
       {
         "Kind": "Components.Component",
-        "Name": "Oqtane.Themes.AdminContainer",
+        "Name": "Oqtane.Themes.OqtaneTheme.Default",
         "AssemblyName": "Oqtane.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Oqtane.Themes.AdminContainer"
+            "TagName": "Oqtane.Themes.OqtaneTheme.Default"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Oqtane.Themes.AdminContainer",
+          "Common.TypeName": "Oqtane.Themes.OqtaneTheme.Default",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4360,6 +4360,37 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Oqtane.Themes.DefaultContainer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.AdminContainer",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AdminContainer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.AdminContainer"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "Oqtane.Themes.AdminContainer",
+        "AssemblyName": "Oqtane.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Oqtane.Themes.AdminContainer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Oqtane.Themes.AdminContainer",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
