@@ -1,4 +1,11 @@
-﻿.breadcrumbs {
+﻿/* BOOTSTRAP OVERWRITE */
+.btn-primary {
+    color: #fff;
+    background-color: #82A1B6;
+    border-color: #1861ac;
+}
+
+.breadcrumbs {
     /* remove top bar nav items */
     display: none;
 
@@ -17,8 +24,9 @@
 }
 
     .main .top-row {
-        background-color: #e6e6e6;
-        border-bottom: 1px solid #d6d5d5;
+        background-color: #672E31;
+        border-bottom: none;
+        height: 6rem;
     }
 
 .sidebar {
